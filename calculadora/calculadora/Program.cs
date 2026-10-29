@@ -1,4 +1,4 @@
-namespace Calculadora2
+namespace calculadora
 {
     internal static class Program
     {
